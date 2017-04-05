@@ -1,0 +1,15 @@
+C:\C#_bootcamp\LabXUnit\LabXUnit\obj\Debug\LabXUnit.csprojResolveAssemblyReference.cache
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.abstractions.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.runner.utility.net35.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.runner.reporters.net452.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\LabXUnit.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\LabXUnit.pdb
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.assert.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.core.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.execution.desktop.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.assert.xml
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.core.xml
+C:\C#_bootcamp\LabXUnit\LabXUnit\bin\Debug\xunit.execution.desktop.xml
+C:\C#_bootcamp\LabXUnit\LabXUnit\obj\Debug\LabXUnit.dll
+C:\C#_bootcamp\LabXUnit\LabXUnit\obj\Debug\LabXUnit.pdb
